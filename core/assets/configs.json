@@ -1,0 +1,7 @@
+{
+  "pathToTextureBomberOne": "bomberSpritePlayer1.png",
+  "pathToTextureBomberTwo" : "bomberSpritePlayer2.png",
+  "pathToTextureDeadBomberOne" : "DeadSpritePlayer1.png",
+  "pathToTextureDeadBomberTwo" :   "DeadSpritePlayer2.png"
+
+}
