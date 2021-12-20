@@ -1,2 +1,1 @@
 # Bomberman
-Time for explode
